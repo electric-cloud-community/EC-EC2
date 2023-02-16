@@ -1,0 +1,13 @@
+.gradle
+build
+target
+staging
+.idea
+/bin/
+.classpath
+.project
+.settings
+*.iml
+openstack-test.properties
+.groovy
+.DS_Store
