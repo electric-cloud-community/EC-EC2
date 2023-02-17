@@ -32,7 +32,7 @@
       <javascript>war/ecplugins.ec2.ConfigurationManagement/ecplugins.ec2.ConfigurationManagement.nocache.js</javascript>
     </component>
   </components>
-<hasAdoc>true</hasAdoc>
+  <repositoryUrl>https://github.com/electric-cloud-community/EC-EC2/</repositoryUrl>
 
 <detailedDescription>This plugin is deprecated. Please consider switching to EC-AWS-EC2 plugin.</detailedDescription>
 <catalogLabel>Amazon Elastic Compute Cloud</catalogLabel>
