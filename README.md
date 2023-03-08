@@ -10,7 +10,7 @@ plugin.
 
 To compile this plugin, run `./gradlew`.
 
-# Setting up the plugin configuration
+# Plugin configurations
 
 Plugin configurations are sets of parameters that apply across some or
 all of the plugin procedures. They reduce repetition of common values,
@@ -18,20 +18,7 @@ create predefined sets of parameters for end users, and store
 credentials securely. Each configuration has a unique name that is
 automatically entered in designated parameters in the procedures.
 
-## Input
-
-Go to **Administration** &gt; **Plugins** to open the Plugin Manager.
-
-Find the EC-EC2 row.
-
-Click **Configure** to open the EC2 Configurations page.
-
-Click **Create Configuration**.
-
-To create a EC2 configuration, enter the following information and click
-**OK**.
-
-Remember that you may need to create additional configurations later.
+# Configuration parameters
 
 <table>
 <colgroup>
